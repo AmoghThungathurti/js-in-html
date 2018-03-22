@@ -1,2 +1,3 @@
 # js-in-html
-lmao idk what to do
+hoping that this will work
+[link to live pages](https://amoghthungathurti.github.io/js-in-html/lmao.js)
